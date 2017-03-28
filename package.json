@@ -1,0 +1,23 @@
+{
+  "name": "fonteroni",
+  "version": "1.0.0",
+  "description": "A tool to convert Bootstrap projects from Glyphicons to FontAwesome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enricoberti/fonteroni.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enricoberti/fonteroni/issues"
+  },
+  "homepage": "https://github.com/enricoberti/fonteroni#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "findit": "^2.0.0"
+  }
+}
